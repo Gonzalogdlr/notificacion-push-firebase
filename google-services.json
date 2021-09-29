@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033469962531",
+    "project_id": "pruebas-notification",
+    "storage_bucket": "pruebas-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033469962531:android:4b3ff4df477f8509058496",
+        "android_client_info": {
+          "package_name": "com.gonozer.notificactionpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033469962531-ague7nmmjjgju7ua61llevejd6254b4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXl5KgTFnsgrBG38i43KP0QT6Q0itV2HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033469962531-ague7nmmjjgju7ua61llevejd6254b4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
